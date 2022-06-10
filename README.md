@@ -88,6 +88,8 @@ One video game that has been popular for eSports is Blizzard Entertainment's Hea
 
 There has been a history of Hearthstone competitions going back to 2013.
 
+TODO
+
 ## Virtual Goods
 
 TODO

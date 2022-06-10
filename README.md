@@ -17,14 +17,15 @@ and ####.
 
 **TODO: include some samples of NFTs**
 
+These go by names such as — Bored Ape Yacht Club (BAYC), Cool Cats, CryptoPunks, and many others.
+
 But NFTs have an interesting history that goes back quite a bit earlier than 2021!
 And the the early NFTs had absoltely nothing to do with art!
 
 ## Why NFTs
 
 There are a lot of things that culminated in creating the popularity of **NFTs**.
-
-And many of these things are largely unrelated.
+Many of these things being largely unrelated to each other.
 
 Today NFTs are, in the minds of many many people, almost synonymous with a certain type of digital art.
 But, strictly speaking, NFTs are not art-specific.
@@ -60,9 +61,26 @@ This latter form of activity is called eSports.
 
 ## eSports
 
-eSports (which is short for “electronic sports”) ####
+eSports (which is short for “electronic sports”) is a form of professional competitive (video) gaming.
 
-TODO
+This could take the form of a series of one-on-one competitions, with the eSports players fighting each other in the Street Fighter video game.
+
+Or, it could take the form of two teams going head-to-head against each other in a game League of Legends.
+
+Often they are in an eSports area, with an audience watching them play.
+
+Sometimes these matches are also broadcast over the Internet.
+Sometimes recording of the matches are put on the Internet.
+
+eSports is an industry now.
+There are people who make their living from eSports.
+And it has been around long enough that some people have even retired from eSports.
+
+eSports team is more than just the players/
+There are coaches.
+There are cooks (who make food for the team).
+Drivers (who drive the team around).
+Etc.
 
 ## Blitzchung Controversy
 
@@ -115,6 +133,8 @@ TODO
 ## Colored Coins
 
 TODO
+
+## 
 
 ## NFTs
 

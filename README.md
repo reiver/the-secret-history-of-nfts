@@ -137,11 +137,17 @@ What if you wanted to create a new video game?
 Would you have to create your own new blockchain?
 Why can't you just use a single blockchain for multiple video games?
 
-Three separate companies formed in an effort to try to address this short-coming —
+Three separate commercial formed in an effort to try to address this short-coming —
 
 * Enjin
 * Loom
 * Xaya
+
+Xaya had the most advanced technology (out of the three), and was developed by the same team that created HunterCoin.
+
+Enjin was much more well known than the other two, due to having a much larger marketing budget.
+
+And Loom's origin is tied to CryptoKitties.
 
 ## CryptoKitties
 

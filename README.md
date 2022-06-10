@@ -147,3 +147,15 @@ In the late-1990s and early-2000s normal people started coming online; using the
 
 TODO
 
+The Dot-com Boom and bust came and went.
+And with it the opportunists came and went.
+
+But the Internet, the Web, and e-mail are still here.
+
+And not only that — the Internet, the Web, and e-mail are extremely successful!
+
+The modern Internet brought us new things — Airbnb, Alibaba, Amazon, Baidu, Careem, eBay, Facebook, Google, Instagram,, Lyft Naver, Netflix, PayPal, Shopify Spotify, Twitter, Uber, Yahoo! — to name a small number of them.
+
+The early Internet and Web attracted opportunists.
+But the opportunitsts eventually went away.
+And not only is the Internet and Web still here, but it is extremely successfull.

@@ -24,6 +24,13 @@ And the the early NFTs had absoltely nothing to do with art!
 
 There are a lot of things that culminated in creating the popularity of **NFTs**.
 
+And many of these things are largely unrelated.
+
+Today NFTs are, in the minds of many many people, almost synonymous with a certain type of digital art.
+But, strictly speaking, NFTs are not art-specific.
+
+The history of NFTs runs through video games, and virtual goods; but also includes things like legal contract signing, and property ownership.
+
 ## Professional Video Gaming
 
 Video games have a history going back to the 1970s.

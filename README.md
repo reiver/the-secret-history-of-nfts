@@ -19,3 +19,23 @@ and ####.
 
 But NFTs have an interesting history that goes back quite a bit earlier than 2021!
 And the the early NFTs had absoltely nothing to do with art!
+
+## Why NFTs
+
+There are a lot of things that culminated in creating the popularity of **NFTs**.
+
+### Professional Gamers
+
+Video games have a history going back to the 1970s.
+A history that has gone through many eras.
+
+Today (at the time of writing of this article) playing video games online over the Internet is popular.
+
+Also, today (at the time of writing this article) _watching others_ play videos games over the Internet is popular too.
+
+Today millions of people watch other people play video games!
+
+Popular platform to watch other people play videos games include Twitch, and YouTube.
+Less popular, but up-and-coming platforms, include a network of federated platforms that collectively get called the Fediverse.
+
+Although perhaps a more familiar #### is to say, they are similar to spreadsheets.

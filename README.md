@@ -17,10 +17,10 @@ and ####.
 
 **TODO: include some samples of NFTs**
 
-These go by names such as — Bored Ape Yacht Club (BAYC), Cool Cats, CryptoPunks, and many others.
+Some of these go by names such as — Bored Ape Yacht Club (BAYC), Cool Cats, CryptoPunks, as well as many others.
 
 But NFTs have an interesting history that goes back quite a bit earlier than 2021!
-And the the early NFTs had absoltely nothing to do with art!
+And the early NFTs had absoltely nothing to do with art!
 
 ## Why NFTs
 
@@ -212,6 +212,8 @@ There are many other examples.
 
 ## NFT Use-Case
 
+TODO
+
 ### Digital Prints
 
 Some artist want to be able to create the digital version of a “print”.
@@ -225,14 +227,39 @@ They sell these (physical) prints.
 
 Some artists see NFTs as a way of creating the digital version of these prints.
 
-## Virtual Goods
+### Virtual Goods
 
 TODO
 
-## Art Aftermarket
+### Art Aftermarket
+
+TODO
+
+### Public Database
+
+TODO
+
+### Inter-Video Game Characters & Assets
+
+## What An Actuall NFT Is
+
+In its most fundemental sense, an NFT is just a type _record_ — a thing that acts as evidence about the past.
+
+TODO
+
+We are aware that humans have been keeping _records_ written records to thousands of years.
+
+Some of the earliest forms of writing — called Cuneiform — was made from wedge-shaped immpressions pushed into (soft) clay (that was later hardened).
+Many of these Cuneiform clays amounted to _records_.
+
+TODO
+
+Fast forward to today, and we are still creating _records_.
+
+We have electronic computers now, so our records less often put on clay tablets, and more ofen put on a computer.
+
+NFTs are one technique for creating a record on a computer.
 
 TODO
 
 
-
-These _use-cases_ are real

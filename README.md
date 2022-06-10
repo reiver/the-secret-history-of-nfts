@@ -138,6 +138,9 @@ Rapidly increasing opportunity attracting opportunitists is nothing new.
 
 We have seen this over and over and over again in other fields and industries.
 
+The oppotunists came and went.
+But that field and industry is not only still there, but it is extremely successful.
+
 ### Dot-com Boom
 
 The late-1990s and early-2000s saw the Internet & the Web start to go mainstream.
@@ -159,3 +162,14 @@ The modern Internet brought us new things — Airbnb, Alibaba, Amazon, Baidu, Ca
 The early Internet and Web attracted opportunists.
 But the opportunitsts eventually went away.
 And not only is the Internet and Web still here, but it is extremely successfull.
+
+### Linux / Open Source Boom
+
+Linux is a free and open source computer operating system.
+
+Linux is probably most similar to the Unix operating system.
+But Linux the same _type_ of technology as Microsoft Windows, iOS, iPadOS, and macOS.
+
+When the Internet and the Web went mainstream, in the late-1990s and early-2000s, Linux played a major role.
+
+TODO

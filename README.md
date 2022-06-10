@@ -65,7 +65,7 @@ eSports (which is short for “electronic sports”) is a form of professional c
 
 This could take the form of a series of one-on-one competitions, with the eSports players fighting each other in the Street Fighter video game.
 
-Or, it could take the form of two teams going head-to-head against each other in a game League of Legends.
+Or, it could take the form of two teams going head-to-head against each other in a game League of Legends; where the winner gets a $1 million prize.
 
 Often they are in an eSports area, with an audience watching them play.
 
@@ -106,13 +106,27 @@ It wasn't in the means of the team member to take a year or two off from the (pr
 
 ## HunterCoin
 
-A very notable early blockchain gaming is a game by the name of — HunterCoin.
+A very notable early blockchain game is a video game by the name of — HunterCoin.
 
-The HunterCoin blockchain video game was released in 2014.
+HunterCoin is a video game, a blockchain, and a cryptocurrency,
+that has its origins back in 2013 and was released back in 2014.
 
-An interesting quality of Huntercoin is that, the game actually ran on the blockchain.
+The HunterCoin video game is a massively-multiplayer-online-gaming (MMOG).
+It consists of a top-down 2D virtual world can invoke nostalgic feelings for the video game Gauntlet from the 1980s.
+
+
+The HunterCoin blockchain was a based on the software source code of the Namecoin blockchain.
+Which itself was based on the software source code of the Bitcoin blockchain.
+The HunterCoin blockchain also features a _human-minable_ cryptocurrency,
+where (as a rule of thumb) the more human-effort that is put in, the more reward.
+
+An interesting quality of the Huntercoin video game is that, the game actually ran on the blockchain.
+
+That is an important different from many other blockchain games, which ####
 
 Something that seems unfathomable to today's Ethereum based NFTs that also have a video game component. 
+
+TODO
 
 ## Video Game Blockchains
 

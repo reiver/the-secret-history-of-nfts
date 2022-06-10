@@ -207,3 +207,30 @@ WordPress, another example of open source software technology, (at the time of w
 (Interestingly, usually this is the WordPress software running on a computer server that itself is running Linux.)
 
 There are many other examples.
+
+## NFT Use-Case
+
+### Digital Prints
+
+Some artist want to be able to create the digital version of a “print”.
+
+With traditional (physical) prints —
+An artist, who paints, might create a painting, but not want to sell the original.
+Instead the artist might take a very high quality, high resolution photo of their painting, and print that onto very high quality paper.
+This is called a print.
+Usually these artists restrict how many prints they create — maybe 20, or 50, or 100, or 1,000.
+They sell these (physical) prints.
+
+Some artists see NFTs as a way of creating the digital version of these prints.
+
+## Virtual Goods
+
+TODO
+
+## Art Aftermarket
+
+TODO
+
+
+
+These _use-cases_ are real

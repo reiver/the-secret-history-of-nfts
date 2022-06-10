@@ -10,7 +10,7 @@ But what is an **NFT**?
 
 To many people, NFTs are a form a digital-art.
 With styles that range
-from cartoon drawings of cartoon ape heads,
+from cartoon drawings of ape heads,
 to pixel-art inspired by videos games of the 1970s and 1980s,
 to ####,
 and ####.

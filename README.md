@@ -122,13 +122,28 @@ TODO
 
 ## Oppotunists
 
-What eventually became known as NFTs started with the software developers, the futurists, the video game developers & fans, the artists, and the dreamers.
+What eventually became known as NFTs started with the software developers & futurists, with the video game developers & the fans, with the artists & the dreamers.
 
-But when, what was then, outsiders (to these communities that embraced NFTs) noticed that there was opportunity — it attracted the opportunists.
+But when (what were then) outsiders (to these communities that embraced NFTs) noticed that there was opportunity — it attracted the opportunists.
 
 When there is rapidly increasing opportunities it tends to attact opportunists.
 
-These opportunists had little or no interest in the cultures, the ethos, or the communities that had embraced NFTs.
+These opportunists had little to no interest in the cultures, the ethos, or the communities that had embraced NFTs.
 
 These opportunists were looking for a quick buck, and to get-rich-quick.
+
+## Post-Opportunists
+
+Rapidly increasing opportunity attracting opportunitists is nothing new.
+
+We have seen this over and over and over again in other fields and industries.
+
+### Dot-com Boom
+
+The late-1990s and early-2000s saw the Internet & the Web start to go mainstream.
+No longer was it only the domain of software developers, computer enthusiasts, researchers, and ####.
+
+In the late-1990s and early-2000s normal people started coming online; using the Internet, the Web, e-mail, as well as other platforms that were popular at the time.
+
+TODO
 

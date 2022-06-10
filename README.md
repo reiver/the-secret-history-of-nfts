@@ -38,7 +38,7 @@ A history that has gone through many eras.
 
 Today (at the time of writing of this article) playing video games online over the Internet is popular.
 
-Also, today (at the time of writing this article) _watching others_ play videos games over the Internet is popular too.
+Also, today (at the time of writing this article) _watching other people_ play videos games over the Internet is popular too.
 
 Today millions of people watch other people play video games!
 
@@ -84,17 +84,37 @@ Many of the teams who created blockchain games were small and independent.
 
 It wasn't in the means of the team member to take a year or two off from the (previous) work, and focus on creating a video game.
 
-## Hunter Coin
+## HunterCoin
 
-A very notable early blockchain gaming is a game by the name of — Huntercoin.
+A very notable early blockchain gaming is a game by the name of — HunterCoin.
 
-The Huntercoin blockchain video game was released in 2014.
+The HunterCoin blockchain video game was released in 2014.
 
 An interesting quality of Huntercoin is that, the game actually ran on the blockchain.
 
 Something that seems unfathomable to today's Ethereum based NFTs that also have a video game component. 
 
+## Video Game Blockchains
+
+Although the HunterCoin blockchain video game was a success both as a video game, and for its technology, one thing some people felt was a short-coming of its technology was that — its blockchain could only be used to play one video game.
+
+What if you wanted to create a new video game?
+Would you have to create your own new blockchain?
+Why can't you just use a single blockchain for multiple video games?
+
+Three separate companies formed in an effort to try to address this short-coming —
+
+* Enjin
+* Loom
+* Xaya
+
+## CryptoKitties
+
+TODO
+
 ## Colored Coins
+
+TODO
 
 ## NFTs
 

@@ -28,7 +28,7 @@ There are a lot of things that culminated in creating the popularity of **NFTs**
 Many of these things being largely unrelated to each other.
 
 Today NFTs are, in the minds of many many people, almost synonymous with a certain type of digital art.
-But, strictly speaking, NFTs are not art-specific.
+But, strictly speaking, although NFTs can be used for art, they are not art-specific, and have nothing (directly) to do with art.
 
 The history of NFTs runs through video games, and virtual goods; but also includes things like legal contract signing, and property ownership.
 

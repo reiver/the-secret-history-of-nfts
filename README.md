@@ -24,7 +24,7 @@ And the the early NFTs had absoltely nothing to do with art!
 
 There are a lot of things that culminated in creating the popularity of **NFTs**.
 
-### Professional Video Gaming
+## Professional Video Gaming
 
 Video games have a history going back to the 1970s.
 A history that has gone through many eras.
@@ -57,7 +57,35 @@ eSports (which is short for “electronic sports”) ####
 
 TODO
 
-### Blitzchung Controversy
+## Blitzchung Controversy
+
+One video game that has been popular for eSports is Blizzard Entertainment's Hearthstone video game.
+
+There has been a history of Hearthstone competitions going back to 2013.
+
+## Virtual Goods
 
 TODO
+
+## Blockchain Gaming
+
+TODO
+
+### Crowd Funding
+
+Many of the teams who created blockchain games were small and independent.
+
+It wasn't in the means of the team member to take a year or two off from the (previous) work, and focus on creating a video game.
+
+## Oppotunists
+
+What eventually became known as NFTs started with the software developers, the futurists, the video game developers & fans, the artists, and the dreamers.
+
+But when, what was then, outsiders (to these communities that embraced NFTs) noticed that there was opportunity — it attracted the opportunists.
+
+When there is rapidly increasing opportunities it tends to attact opportunists.
+
+These opportunists had little or no interest in the cultures, the ethos, or the communities that had embraced NFTs.
+
+These opportunists were looking for a quick buck, and to get-rich-quick.
 

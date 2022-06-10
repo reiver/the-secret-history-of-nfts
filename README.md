@@ -67,7 +67,7 @@ This could take the form of a series of one-on-one competitions, with the eSport
 
 Or, it could take the form of two teams going head-to-head against each other in a game League of Legends; where the winner gets a $1 million prize.
 
-Often they are in an eSports area, with an audience watching them play.
+Often these competitions take place in an eSports arena, with a large area in the eSports arena for audience members to sit and watch the professional eSports players compete against each other.
 
 Sometimes these matches are also broadcast over the Internet.
 Sometimes recording of the matches are put on the Internet.
@@ -117,14 +117,15 @@ It consists of a top-down 2D virtual world can invoke nostalgic feelings for the
 
 The HunterCoin blockchain was a based on the software source code of the Namecoin blockchain.
 Which itself was based on the software source code of the Bitcoin blockchain.
-The HunterCoin blockchain also features a _human-minable_ cryptocurrency,
-where (as a rule of thumb) the more human-effort that is put in, the more reward.
+The HunterCoin blockchain is a _human-minable_ cryptocurrency,
+where (as a rule of thumb) the more human-effort that is put in (by the human), the more reward.
 
-An interesting quality of the Huntercoin video game is that, the game actually ran on the blockchain.
+An interesting quality of the HunterCoin video game is that, the HunterCoin video game actually ran on the blockchain.
 
-That is an important different from many other blockchain games, which ####
+Compare this to most other blockchain games even today (at the time of writing of this article) which only store the the ownership of profile images, and in-game virtual goods on the blockchain.
+HunterCoin was ahead of its time!
 
-Something that seems unfathomable to today's Ethereum based NFTs that also have a video game component. 
+This feat that HunterCoin pulled off — of being able to actual run the game on the blockchain — is something that seems (in practice) unfathomable to today's Ethereum based NFTs based video games.
 
 TODO
 

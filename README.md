@@ -160,8 +160,8 @@ And not only that — the Internet, the Web, and e-mail are extremely successful
 The modern Internet brought us new things — Airbnb, Alibaba, Amazon, Baidu, Careem, eBay, Facebook, Google, Instagram,, Lyft Naver, Netflix, PayPal, Shopify Spotify, Twitter, Uber, Yahoo! — to name a small number of them.
 
 The early Internet and Web attracted opportunists.
-But the opportunitsts eventually went away.
-And not only is the Internet and Web still here, but it is extremely successfull.
+But the opportunitsts came and eventually went away.
+But not only is the Internet and Web still here, but it is extremely successful.
 
 ### Linux / Open Source Boom
 
@@ -173,3 +173,17 @@ But Linux the same _type_ of technology as Microsoft Windows, iOS, iPadOS, and m
 When the Internet and the Web went mainstream, in the late-1990s and early-2000s, Linux played a major role.
 
 TODO
+
+The Linux / Open Source Book attracted opportunists.
+But the opportunists came and eventually went away.
+But not only is the Linux and open source still here, but they are extremely successful!
+
+Most computer servers that power the Internet and the Web run on Linux.
+Most mobile phones (i.e., Android based mobile phones) run on Linux.
+Etc.
+
+And that is just Linux.
+WordPress, another example of open source software technology, (at the time of writing this article) powers about 43% of the Web.
+(Interestingly, usually this is the WordPress software running on a computer server that itself is running Linux.)
+
+There are many other examples.

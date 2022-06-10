@@ -77,6 +77,22 @@ Many of the teams who created blockchain games were small and independent.
 
 It wasn't in the means of the team member to take a year or two off from the (previous) work, and focus on creating a video game.
 
+## Hunter Coin
+
+A very notable early blockchain gaming is a game by the name of — Huntercoin.
+
+The Huntercoin blockchain video game was released in 2014.
+
+An interesting quality of Huntercoin is that, the game actually ran on the blockchain.
+
+Something that seems unfathomable to today's Ethereum based NFTs that also have a video game component. 
+
+## Colored Coins
+
+## NFTs
+
+TODO
+
 ## Oppotunists
 
 What eventually became known as NFTs started with the software developers, the futurists, the video game developers & fans, the artists, and the dreamers.

@@ -262,6 +262,12 @@ TODO
 
 ### Inter-Video Game Characters & Assets
 
+TODO
+
+### Modernized Form Of Copyright
+
+TODO
+
 ## What An Actuall NFT Is
 
 In its most fundemental sense, an NFT is just a type _record_ — a thing that acts as evidence about the past.

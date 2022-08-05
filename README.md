@@ -28,30 +28,25 @@ The true history of NFTs runs through video games and virtual goods; but also in
 
 ## The Evolution of Video Gaming
 
-Video games have a history going back to the 1970s.
-A history that has gone through many eras.
+Video games have a history that has gone through many eras, from the popularization of computers in the 70s to the VR headsets of today.
 
-Today (at the time of writing of this article) playing video games online over the Internet is popular.
+Today the video game industry is massive.
+It has outgrown movies in popularity, and playing games online has taken them to new heights.
+This has also led to a boom of video game broadcasting, which has found an immense audience through platforms like Twitch and YouTube.
 
-Also, today (at the time of writing this article) _watching other people_ play videos games over the Internet is popular too.
+Today, literally millions of people watch other people play video games, similar to how audiences are drawn to watch professional athletes play various sports.
 
-Today millions of people watch other people play video games!
+This industry isn’t exclusive to those larger online broadcasters.
+Less popular, but up-and-coming platforms include a network of federated platforms that collectively get called the Fediverse.
 
-Watching-others-play-video-games is similar to how, in the past, audiences were drawn to watch professional athletes play various (physical) sports, such as — baseball, basketball, cricket, football, ice hockey, rugby, soccer, etc.
+Like with music, art, and other Pareto distributed fields, most people in the industry make little to no money, and a tiny fraction make almost all the money.
+A tiny fraction of professional gamers can make hundreds of thousands of dollars per month.
 
-But instead of those (physical) sports, audience members, that can number in the millions of people, watch other people play video games such as — Dota, Fortnite, Hearthstone, Quake, Street Fighter, etc.
+There are two ways that these professional gamers monetize their activities.
 
-Popular platform to watch other people play videos games include Twitch, and YouTube.
-Less popular, but up-and-coming platforms, include a network of federated platforms that collectively get called the Fediverse.
+The first can be done solo, by recording themselves playing games while giving advice or trying to accomplish specific feats within the game. This thrives on YouTube in particular, where gamers have built up large communities.
 
-Like with music, art, and other Pareto distributed fields — most people in the industry make little to no money — but a tiny fraction make a almost all the money. A tiny fraction of professional gamers make hundred-of-thousands of dollars (not per year, but) per month.
-
-There are two types of activities for these professional gamers —
-
-1. play videos games and record it or let other watch you live, and
-2. competitively play videos games against others.
-
-This latter form of activity is called eSports.
+The second way gamers can “go pro” is known as esports. This is closer to traditional sports, where skilled players or teams compete against each other for prize pools.
 
 ## eSports
 

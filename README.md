@@ -1,6 +1,6 @@
 # The Secret History Of NFTs
 
-If you were paying attention to the art scene in 2021 and 2022, then you have probably heard the term “NFT”.
+If you were paying attention to the art scene in 2021 and 2022, then you have probably heard the term “**NFT**”.
 
 But what is an **NFT**, aka **non-fungible token**?
 

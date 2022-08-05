@@ -40,11 +40,12 @@ Less popular, but up-and-coming platforms include a network of federated platfor
 Like with music, art, and other Pareto distributed fields, most people in the industry make little to no money, and a tiny fraction make almost all the money.
 A tiny fraction of professional gamers can make hundreds of thousands of dollars per month.
 
-There are two ways that these professional gamers monetize their activities.
+There are two main ways that these professional gamers monetize their activities.
 
 The first can be done solo, by recording themselves playing games while giving advice or trying to accomplish specific feats within the game. This thrives on YouTube in particular, where gamers have built up large communities.
 
-The second way gamers can “go pro” is known as esports. This is closer to traditional sports, where skilled players or teams compete against each other for prize pools.
+The second way gamers can “go pro” is known as **eSports**.
+This is closer to traditional sports, where skilled players or teams compete against each other for prize pools.
 
 ## eSports
 

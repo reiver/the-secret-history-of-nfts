@@ -17,10 +17,10 @@ and ####.
 
 **TODO: include some samples of NFTs**
 
-Some of these go by names such as — Bored Ape Yacht Club (BAYC), Cool Cats, CryptoPunks, as well as many others.
+The biggest of these go by names such as Bored Ape Yacht Club (BAYC), Cool Cats, and CryptoPunks, though there are thousands of varied collections as well as single pieces that make up the NFT economy as it stands today.
 
-But NFTs have an interesting history that goes back quite a bit earlier than 2021!
-And the early NFTs had absoltely nothing to do with art!
+It may seem like these NFTs have exploded on the scene in the last two years, they actually have an interesting history that goes back quite a bit earlier than 2021.
+As it turns out, the early NFTs had absolutely nothing to do with art.
 
 ## Why NFTs
 

@@ -4,8 +4,6 @@ If you were paying attention to the art scene in 2021 and 2022, then you have pr
 
 But what is an **NFT**, aka **non-fungible token**?
 
-## The Layman's View
-
 To many people, NFTs are a form a digital-art.
 With styles that range
 from cartoon drawings of ape heads,

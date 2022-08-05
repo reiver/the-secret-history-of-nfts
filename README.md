@@ -2,9 +2,9 @@
 
 **NFT** — **non-fungible token**.
 
-If you were paying attention to the art-scene in 2021 and 2022, then you have probably heard that name — **NFT**.
+If you were paying attention to the art scene in 2021 and 2022, then you have probably heard the term “NFT”.
 
-But what is an **NFT**?
+But what is an **NFT**, aka **non-fungible token**?
 
 ## The Layman's View
 
